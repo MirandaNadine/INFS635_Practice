@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(222, 125, 147)   
+}
+
+#head1{
+    background-color:rgb(43, 162, 226)
+}
+
+#header-section{
+    background-color:rgb(43, 162, 226)
+}
+
+h1, h3, h5{
+    color: rgb(255, 255, 255);
+}
